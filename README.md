@@ -12,3 +12,6 @@ https://distill.pub/2017/momentum/
 ## Class note
 csc2541_2022
 https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/
+
+## GAN visualization
+https://poloclub.github.io/ganlab/
