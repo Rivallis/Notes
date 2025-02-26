@@ -1,5 +1,14 @@
 # Notes
 
+## Pretrain | finetuning 
+Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution
+https://openreview.net/forum?id=UYneFzXSJWh
+https://openreview.net/forum?id=1v4gKsyGfe&referrer=%5Bthe%20profile%20of%20Issei%20Sato%5D(%2Fprofile%3Fid%3D~Issei_Sato2)
+NOTE: https://hackmd.io/@machineS/ByvCpMs0j
+
+Visual instruct tuning
+https://hackmd.io/@machineS/S1CiW9boC
+
 ## Regarding the huggingface cache management
 https://huggingface.co/docs/huggingface_hub/en/guides/manage-cache
 
