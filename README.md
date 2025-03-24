@@ -32,3 +32,14 @@ https://alignment-w2024.notion.site/CSC2547-AI-Alignment-b44359978f3a4a8f95c90ad
 
 ## GAN visualization
 https://poloclub.github.io/ganlab/
+
+## Info blogs
+https://colah.github.io/
+
+Distill — Latest articles about machine learning
+https://distill.pub/
+
+Andrej Karpathy blog
+https://karpathy.github.io/
+
+
