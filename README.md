@@ -13,7 +13,7 @@ https://hackmd.io/@machineS/S1CiW9boC
 https://huggingface.co/docs/huggingface_hub/en/guides/manage-cache
 
 ## Optimization vis.
-Notebooks
+Distill — Latest articles about machine learning
 https://distill.pub/
 Momentum for opt.
 https://distill.pub/2017/momentum/
@@ -35,9 +35,6 @@ https://poloclub.github.io/ganlab/
 
 ## Info blogs
 https://colah.github.io/
-
-Distill — Latest articles about machine learning
-https://distill.pub/
 
 Andrej Karpathy blog
 https://karpathy.github.io/
